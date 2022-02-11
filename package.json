@@ -4,8 +4,15 @@
   "keywords": ["fetch", "node-fetch","discord","form-data","discord store"],
   "description": "SDK for DStore",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/lbarcl/DStoreSDK/issues"
+  },
   "scripts": {
     "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lbarcl/DStoreSDK"
   },
   "author": "l.barc.l",
   "license": "ISC",
