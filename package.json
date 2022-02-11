@@ -1,0 +1,16 @@
+{
+  "name": "discordstore",
+  "version": "1.0.0",
+  "keywords": ["fetch", "node-fetch","discord","form-data","discord store"],
+  "description": "SDK for DStore",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "l.barc.l",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
